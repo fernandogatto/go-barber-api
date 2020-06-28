@@ -26,8 +26,10 @@
 
 - Appointments CRUD
 - Users CRUD
+- Providers List
+- Notifications Create
 - DDD and architeture SOLID
-- TDD (under in development)
+- TDD
 
 ## 📌 Technologies <a name="technologies"/>
 
