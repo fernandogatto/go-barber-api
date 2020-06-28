@@ -30,6 +30,7 @@
 - Notifications Create
 - DDD and architeture SOLID
 - TDD
+- Cache
 
 ## 📌 Technologies <a name="technologies"/>
 
@@ -64,7 +65,7 @@ So, run the following command in order in terminal:
 
 ```bash
 # Configure the database schema
-yarn typeorm
+yarn schema:sync
 
 # Start the server
 yarn dev:server
