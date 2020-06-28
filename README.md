@@ -82,6 +82,7 @@ yarn test
 | 400      | BAD REQUEST           |
 | 401      | UNAUTHORIZED          |
 | 404      | NOT FOUND             |
+| 429      | MANY REQUESTS         |
 | 500      | INTERNAL SERVER ERROR |
 
 ## 👍 Contribute <a name="contribute"/>
