@@ -618,10 +618,10 @@
   resolved "https://registry.yarnpkg.com/@types/hapi__joi/-/hapi__joi-17.1.3.tgz#1b400fcf819e400949a4b4ec7fec73216c4f7088"
   integrity sha512-3+EUJ+haX1Ix/Lmn//qGE0l3dll7TouN+ukkorTroShhyQniOECd30psoxSUjcVE6vVjaS07mqhRkJ6lUZrrbw==
 
-"@types/ioredis@^4.16.7":
-  version "4.16.7"
-  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.16.7.tgz#2620a48c26faeb4b65f2ef7501ed6e515d8a3327"
-  integrity sha512-gc0g0OlBxc/Mlhutv5Njkm3A4m5oZXq8gCeEGOt2c4p4ZIYw9dotYjg6z8nSsxOH9KnKkjWUzg0oGCAqtnGFIg==
+"@types/ioredis@^4.17.3":
+  version "4.17.3"
+  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.17.3.tgz#65ba8b9344576ecb229c57ec1db92be3fe830ee9"
+  integrity sha512-G0pN/WZb7OBMFksZOBcqATBUeBII00IZ7C9OW0bm7VG3XMXBI75stTXWLBxm6iNLQxdjFZgzThRbc3gBXBhZGw==
   dependencies:
     "@types/node" "*"
 
