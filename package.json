@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@types/cors": "^2.8.6",
-    "aws-sdk": "^2.704.0",
+    "aws-sdk": "^2.788.0",
     "bcryptjs": "^2.4.3",
     "celebrate": "^12.1.1",
     "class-transformer": "^0.3.1",
